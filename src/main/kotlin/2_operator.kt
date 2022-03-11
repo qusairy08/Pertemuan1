@@ -1,6 +1,8 @@
 fun main() {
-   // var a = 9
-  //  println(a++ - --a)
+   /*
+    var a = 9
+    println(a++ - --a)
+    */
 
     var a = 7
     var b = 6
