@@ -20,7 +20,7 @@ fun main() {
     println("maxLong:" + maxLong)
 println()
 println("decimal")
-    //kode program menggunakan tipe data bilangan decimal (floating-point)
+    //kode program menggunakan tipe data bilangan decimal (floating-point)q
     val maxFloat: Float = 9.123456789f
     val maxDouble: Double = 9.123456789
     println("maxFloat:" + maxFloat)
